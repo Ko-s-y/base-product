@@ -5,7 +5,7 @@
 docker compose build --no-cache
 ```
 
-- 確認
+- 立ち上げ
 ```
 docker compose up -d
 ```
